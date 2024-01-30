@@ -1,0 +1,41 @@
+h2{
+    color: #1ea539;
+}
+img{
+    width: 500px;
+}
+h1{
+    color: rgb(5, 200, 73);
+    background: yellow;
+    font-size:40px ;
+    font-style: oblique;
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(19, 18, 18);
+}
+ol{
+    color: blue;
+    background-color: darkgreen;
+}
+ul{
+   color: rgb(72, 5, 58);
+   background-color: orchid; 
+}
+.happy{
+    color: blueviolet;
+    font: size 40px; 
+}
+.ok{
+    color: black;
+}
+.football{
+    border: 10px solid;background-color: #e4c1e0;
+    color: aqua;
+    margin: 20px;
+    border-radius:20px ;
+    float: left; 
+    padding: 50px;
+    height: 100px;
+}
